@@ -1,15 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my City Lab Blog
+This is my blog for City Lab 2020! I will be posting my Design assingments and other fun things. Let me know if you would like to sponsor the page..
+![City Lab Semester in Residence](https://twitter.com/CityLABHamilton/photo
 
-You can use the [editor on GitHub](https://github.com/hchallen/CIty-Lab-Design-Blog--Henry-C/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Design Assignment 
+For my first design blog, I will be looking at a potential design for turning Main Street into a two way, more accesible point of interest for Hamilton!
+![Main Street, Hamilton, Ontario](https://upload.wikimedia.org/wikipedia/commons/c/cb/MainEastHamilton.JPG)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
