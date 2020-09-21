@@ -1,6 +1,6 @@
 ## Welcome to my City Lab Blog
 This is my blog for City Lab 2020! I will be posting my Design assingments and other fun things. Let me know if you would like to sponsor the page..
-![City Lab Semester in Residence](https://twitter.com/CityLABHamilton/photo
+![City Lab Semester in Residence](https://twitter.com/CityLABHamilton/photo)
 
 
 ### Design Assignment 
