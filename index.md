@@ -8,4 +8,4 @@ This is my blog for City Lab 2020! I will be posting my Design assingments and o
 For my first design blog, I will be looking at a potential design for turning Main Street into a two way, more accesible point of interest for Hamilton!
 ![Main Street, Hamilton, Ontario](https://upload.wikimedia.org/wikipedia/commons/c/cb/MainEastHamilton.JPG)
 
-![](CIty-Lab-Design-Blog--Henry-C/City Lab Design - Henry Challen - For Dr. Brian.pdf)
+![](C/City Lab Design - Henry Challen - For Dr. Brian.pdf)
